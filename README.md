@@ -4,6 +4,7 @@ This repository is meant to be used to train new hires/volunteers on how to use 
 # Preparation Material
 Please read/watch all those materials before you start the exercise.
 
+* [Getting started with anaconda and conda](https://youtu.be/YJC6ldI3hWk)
 * [Good Research Code Handbook](https://goodresearch.dev/)
 * [How to use Github with Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 * [ALLFED Repository Template Readme](https://github.com/allfed/ALLFED-Repository-Template)
