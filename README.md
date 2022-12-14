@@ -12,13 +12,14 @@ Please read/watch all those materials before you start the exercise.
 * [Automated Testing](https://blog.deepjyoti30.dev/tests-github-python)
 * The [OpenAI Chat Bot](https://chat.openai.com/chat) is pretty good at answering programming questions
 * It is recommended to use [VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk) as your code editor
+* The [Seaweed Growth Model Repository](https://github.com/allfed/Seaweed-Growth-Model) can be seen as an example of how ALLFED repositories should look like. You can check how things are done there, if something here confuses you
 
 # Exercise
 1. Fork this repository
 2. Clone it to your local computer
 3. Recreate the folder structure as described in the [ALLFED Guidelines](https://github.com/allfed/ALLFED-Repository-Template)
 4. Create a local virtual environment for the repository
-    * When you try to install/change things make sure are [activating it first!](https://goodresearch.dev/setup.html?highlight=activate#conda)
+    * When you try to install/change things make sure are [activating it first!](https://goodresearch.dev/setup.html?highlight=activate#conda). If something related to virtual environments isn't working, always make sure that it is really activated. 
 5. Create two files in the src folder: numerical.py and plotting.py
 6. Write a function in numerical.py that takes at least one argument and returns a numerical value
 7. Write a function in plotting.py that creates a scatter plot and uses the [ALLFED Style Sheet](https://github.com/allfed/ALLFED-matplotlib-style-sheet)
@@ -26,10 +27,12 @@ Please read/watch all those materials before you start the exercise.
 9. Add a Jupyter Notebook in your scripts folder and import numerical.py and call it
 11. Write two test for numerical.py
 12. Make sure that the documenation of all code follows the [ALLFED Guidelines](https://github.com/allfed/ALLFED-Repository-Template#allfed-python-style-guide)
-13. Automate the tests, so they run on every commit (you can just copy the files needed for that from [the template](https://github.com/allfed/ALLFED-Repository-Template)
+    * If you set-up automated documentation, you can see the status in the [pages setting](https://github.com/allfed/Seaweed-Growth-Model/settings/pages)
+14. Automate the tests, so they run on every commit (you can just copy the files needed for that from [the template](https://github.com/allfed/ALLFED-Repository-Template)
+    * The files used for testing in Github Actions are hidden files. You might need to change the settings of your operation system to show you the hidden files. 
     * you can play around with pytest in your terminal in VS Code
-14. Create an environment.yml that specifies how your virtual environment can be recreated and save it in the repository
-15. Send back a pull request
-16. Invite one of the data scientist (either florian@allfed.info or morgan@allfed.info) to review your pull request
+15. Create an environment.yml that specifies how your virtual environment can be recreated and save it in the repository
+16. Send back a pull request
+17. Invite one of the data scientist (either florian@allfed.info or morgan@allfed.info) to review your pull request
 
 If you get stuck at any point please reach out to one of the data scientists (either florian@allfed.info or morgan@allfed.info). 
