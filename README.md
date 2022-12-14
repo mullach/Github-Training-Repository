@@ -11,12 +11,14 @@ Please read/watch all those materials before you start the exercise.
 * [Overview of Python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 * [Automated Testing](https://blog.deepjyoti30.dev/tests-github-python)
 * The [OpenAI Chat Bot](https://chat.openai.com/chat) is pretty good at answering programming questions
+* It is recommended to use [VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk) as your code editor
 
 # Exercise
 1. Fork this repository
 2. Clone it to your local computer
 3. Recreate the folder structure as described in the [ALLFED Guidelines](https://github.com/allfed/ALLFED-Repository-Template)
 4. Create a local virtual environment for the repository
+  * When you try to install/change things make sure are [activating it first!](https://goodresearch.dev/setup.html?highlight=activate#conda)
 5. Create two files in the src folder: numerical.py and plotting.py
 6. Write a function in numerical.py that takes at least one argument and returns a numerical value
 7. Write a function in plotting.py that creates a scatter plot and uses the [ALLFED Style Sheet](https://github.com/allfed/ALLFED-matplotlib-style-sheet)
@@ -25,6 +27,7 @@ Please read/watch all those materials before you start the exercise.
 11. Write two test for numerical.py
 12. Make sure that the documenation of all code follows the [ALLFED Guidelines](https://github.com/allfed/ALLFED-Repository-Template#allfed-python-style-guide)
 13. Automate the tests, so they run on every commit (you can just copy the files needed for that from [the template](https://github.com/allfed/ALLFED-Repository-Template)
+  * you can play around with pytest in your terminal in VS Code
 14. Create an environment.yml that specifies how your virtual environment can be recreated and save it in the repository
 15. Send back a pull request
 16. Invite one of the data scientist (either florian@allfed.info or morgan@allfed.info) to review your pull request
