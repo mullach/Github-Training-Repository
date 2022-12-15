@@ -2,7 +2,7 @@
 This repository is meant to be used to train new hires/volunteers on how to use Github. Reading the material and finishing the exercise should take around 6-8 hours. 
 
 # Preparation Material
-Please read/watch all those materials before you start the exercise.
+Please look at all those materials before you start the exercise.
 
 * [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510): This gives a good overview of why we need to adhere to good coding practices and what the general idea is
 * [Good Research Code Handbook](https://goodresearch.dev/): Explanation of how to implement good coding practices in Python
