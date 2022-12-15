@@ -1,5 +1,5 @@
 # Github-Training-Repository
-This repository is meant to be used to train new hires/volunteers on how to use Github. People who finished this exercise needed around 6-8 hours to read the material and finish the exercise. 
+This repository is meant to be used to train new hires/volunteers on how to use Github. Reading the material and finishing the exercise should take around 6-8 hours. 
 
 # Preparation Material
 Please read/watch all those materials before you start the exercise.
