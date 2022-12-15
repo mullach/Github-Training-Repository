@@ -4,9 +4,10 @@ This repository is meant to be used to train new hires/volunteers on how to use 
 # Preparation Material
 Please read/watch all those materials before you start the exercise.
 
-* [Getting started with anaconda and conda](https://youtu.be/YJC6ldI3hWk)
-* [Good Research Code Handbook](https://goodresearch.dev/)
+* [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510): This gives a good overview of why we need to adhere to good coding practices and what the general idea is
+* [Good Research Code Handbook](https://goodresearch.dev/): Explanation of how to implement good coding practices in Python
 * [How to use Github with Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+* [Getting started with anaconda and conda](https://youtu.be/YJC6ldI3hWk)
 * [ALLFED Repository Template Readme](https://github.com/allfed/ALLFED-Repository-Template)
 * [Overview of Python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 * [Automated Testing](https://blog.deepjyoti30.dev/tests-github-python)
