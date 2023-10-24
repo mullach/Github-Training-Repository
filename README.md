@@ -3,6 +3,8 @@ This repository is meant to be used to train new hires/volunteers on how to use 
 
 Before you get started, please check that your actual name is visible on your Github profile. This way we know which account belongs to whom and when we make repositories citable your real name will be used and not your nickname. 
 
+Also, if you read this and you are not yet part of the ALLFED group on Github, please let Florian know your account name, so it can be added. 
+
 # Preparation Material
 Please look at all those materials before you start the exercise.
 
