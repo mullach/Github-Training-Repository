@@ -38,7 +38,7 @@ Please look at all those materials before you start the exercise.
     * The files used for testing in Github Actions are hidden files. You might need to change the settings of your operation system to show you the hidden files. 
     * you can play around with pytest in your terminal in VS Code
 15. Create an environment.yml that specifies how your virtual environment can be recreated and save it in the repository
-16. Send back a pull request
+16. Send back a pull request, so we know you have finished this training
 17. Check back in with Morgan or Florian if you have any questions (florian@allfed.info or morgan@allfed.info) 
 
 If you get stuck at any point please reach out to one of the data scientists (either florian@allfed.info or morgan@allfed.info). 
