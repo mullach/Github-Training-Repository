@@ -16,7 +16,7 @@ Please look at all those materials before you start the exercise.
 * [ALLFED Repository Template Readme](https://github.com/allfed/ALLFED-Repository-Template)
 * [Overview of Python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 * [Automated Testing](https://blog.deepjyoti30.dev/tests-github-python)
-* The [OpenAI Chat Bot](https://chat.openai.com/chat) is pretty good at answering programming questions
+* The [ChatGPT](https://chat.openai.com/chat) is pretty good at answering programming questions
 * It is recommended to use [VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk) as your code editor
 * The [Seaweed Growth Model Repository](https://github.com/allfed/Seaweed-Growth-Model) can be seen as an example of how ALLFED repositories should look like. You can check how things are done there, if something here confuses you
 
