@@ -12,7 +12,7 @@ Please look at all those materials before you start the exercise.
 * [Good Research Code Handbook](https://goodresearch.dev/): Explanation of how to implement good coding practices in Python
 * [Fundamentals of Git and Github](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 * [How to use Github with Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
-* [Getting started with anaconda and conda](https://youtu.be/YJC6ldI3hWk)
+* [Getting started with anaconda and conda](https://youtu.be/YJC6ldI3hWk) (if you feel like conda is too slow, check out [mamba](https://mamba.readthedocs.io/en/latest/) instead)
 * [ALLFED Repository Template Readme](https://github.com/allfed/ALLFED-Repository-Template)
 * [Overview of Python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 * [Automated Testing](https://blog.deepjyoti30.dev/tests-github-python)
