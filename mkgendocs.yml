@@ -14,3 +14,8 @@ pages:
     functions:
       - multiply
 
+  - page: "modules/src/plotting.md"
+    source: "src/plotting.py"
+    functions:
+      - scatterplot
+
