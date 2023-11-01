@@ -42,3 +42,6 @@ Please look at all those materials before you start the exercise.
 17. Check back in with Morgan or Florian if you have any questions (florian@allfed.info or morgan@allfed.info) 
 
 If you get stuck at any point please reach out to one of the data scientists (either florian@allfed.info or morgan@allfed.info). 
+
+# Documentation
+Automated docs are available [here](https://mullach.github.io/Github-Training-Repository/) for the completed training.
